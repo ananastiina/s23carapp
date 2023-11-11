@@ -37,6 +37,7 @@ export default function Carlist() {
         }
     ]
 
+    // editcar ei toimi vielä
 
     useEffect(() => getCars(), [])
 
